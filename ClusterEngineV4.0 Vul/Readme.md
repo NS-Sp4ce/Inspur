@@ -54,7 +54,7 @@ Try to list the directories
 
 # 0x02 Pwned
 
-Now, I confirmed there is a remote code execution that a found, after fuzz, I got the following payload
+Now, I confirmed there is a remote code execution that i found, after fuzz, I got the following payload
 
 `whoami`
 
