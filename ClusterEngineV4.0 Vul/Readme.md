@@ -2,7 +2,7 @@
 
 # 0x01 Description
 
-Today, i found a`Inspur Server Cluster Management System` in our intranet, which login page looks like that.
+Today, i found a `Inspur Server Cluster Management System` in our intranet, which login page looks like that.
 
 ![1573267238057](img/1573267238057.png)
 
