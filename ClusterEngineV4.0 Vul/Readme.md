@@ -12,7 +12,7 @@ It doesn't have verification code, so i decide to crack a login account.
 
 
 
-when burpsuite crack down, i noticed if post data has `;'`, the response packet is abnormal.
+when burpsuite crack finished, i noticed if post data has `;'`, the response packet is abnormal.
 
 ![1573267472820](img/1573267472820.png)
 
